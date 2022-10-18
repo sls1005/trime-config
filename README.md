@@ -1,4 +1,3 @@
-# trime-config
 Patch files for Trime.
 
 Chinese characters used in some of the labels are transformed into Traditional characters.
