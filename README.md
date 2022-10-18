@@ -5,6 +5,6 @@ Chinese characters used in some of the labels are transformed into Traditional c
 
 In addition, some of the keys are rearranged to meet the small screens of smartphones.
 
-#### Usage
+### Usage
 
 Put the `.yaml` files into `/storage/emulated/0/` and then re-sync them.
