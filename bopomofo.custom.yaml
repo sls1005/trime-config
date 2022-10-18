@@ -1,4 +1,0 @@
-# Original author: Hsien-yu Chu
-# License: CC0 (public domain)
-patch:
-  "switches/@1/states": [ 半形, 全形 ]
