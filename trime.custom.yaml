@@ -1,15 +1,26 @@
 # Original author: Hsien-yu Chu
 # License: CC0 (public domain)
 patch:
-  "liquid_keyboard/candidate/name": 候選
-  "liquid_keyboard/clipboard/name": 剪貼
-  "liquid_keyboard/math/name": 數學
-  "liquid_keyboard/unit/name": 單位
-  "liquid_keyboard/grease/name": 希臘
-  "liquid_keyboard/rusa/name": 俄語
-  "liquid_keyboard/korea/name": 韓文
-  "liquid_keyboard/yinbiao/name": 音標
-  "liquid_keyboard/yanwenzi/name": 顏文字
-  "liquid_keyboard/keyboards/@0": exit
-  "liquid_keyboard/keyboards/@9": emoji
-  "liquid_keyboard/keyboards/@16": lation
+  "style/enter_labels":
+     go: "⇥"
+     done: "✓"
+     next: "↴"
+     pre: "↰"
+     search: "⌕"
+     send: "⌲"
+     default: "↵"
+  "preset_keys/Return1/label": "↵"
+  "preset_keys/Shift_L/label": "⇧"
+  "preset_keys/BackSpace/label": "⌫"
+  "liquid_keyboard/candidate/name": "候選"
+  "liquid_keyboard/clipboard/name": "剪貼"
+  "liquid_keyboard/math/name": "數學"
+  "liquid_keyboard/unit/name": "單位"
+  "liquid_keyboard/grease/name": "希臘"
+  "liquid_keyboard/rusa/name": "俄語"
+  "liquid_keyboard/korea/name": "韓文"
+  "liquid_keyboard/yinbiao/name": "音標"
+  "liquid_keyboard/yanwenzi/name": "顏文字"
+  "liquid_keyboard/keyboards/@0": "exit"
+  "liquid_keyboard/keyboards/@9": "emoji"
+  "liquid_keyboard/keyboards/@16": "lation"
