@@ -2,16 +2,16 @@
 # License: CC0 (public domain)
 patch:
   "style/enter_labels":
-     go: "⇥"
-     done: "✓"
-     next: "↴"
-     pre: "↰"
-     search: "⌕"
-     send: "⌲"
-     default: "↵"
-  "preset_keys/Return1/label": "↵"
-  "preset_keys/Shift_L/label": "⇧"
-  "preset_keys/BackSpace/label": "⌫"
+     go: '⇥'
+     done: '✓'
+     next: '↴'
+     pre: '↰'
+     search: '⌕'
+     send: '⌲'
+     default: '↩'
+  "preset_keys/Return1/label": '↩'
+  "preset_keys/BackSpace/label": '⌫'
+  "preset_keys/Escape/label": '⎋'
   "liquid_keyboard/candidate/name": "候選"
   "liquid_keyboard/clipboard/name": "剪貼"
   "liquid_keyboard/math/name": "數學"
