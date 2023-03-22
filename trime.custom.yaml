@@ -21,6 +21,7 @@ patch:
   "liquid_keyboard/korea/name": "韓文"
   "liquid_keyboard/yinbiao/name": "音標"
   "liquid_keyboard/yanwenzi/name": "顏文字"
+  "liquid_keyboard/symbollist/name": "符號表"
   "liquid_keyboard/keyboards/@0": "exit"
   "liquid_keyboard/keyboards/@9": "emoji"
   "liquid_keyboard/keyboards/@16": "lation"
